@@ -1,7 +1,7 @@
-Переход в проект:cd My_app
+Переход в проект: cd My_app
 Переход в консоль: python manage.py shell
 
-Queryset запросы:
+QuerySet запросы:
 
 #добавление покупателей
 
